@@ -1,0 +1,23 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>Meu Portal de Notícias</title>
+    </head>
+    <body>
+        <h1>Exercícios de HTML levam aluno à Loucura</h1>
+        <h2> Aluno do curso <strong>Projeto Desenvolve</strong>, de Bom Despacho, fica louco com exercícios de curso</h2>
+    <p> O aluno, chamando <strong>Charles Vinícius Campos</strong> foi diagnosticado com <em><q>Loucura Precoce</q></em> pela <strong>Drª Aicent Hightower</strong>, nesta última semana.</p>
+    <p>O Diagnóstico foi entregue ao <strong>Prefeito Municipal</strong>, visto que o aluno se trata de um <em>servidor público. </em></p>
+    <p>Charles V. Campos <abbr title="Coitado, já não era muito novinho, mas tinha tanta coisa pra aproveitar">tinha 41 anos</abbr> e cursava o <em><q>Projeto Desenvolve</q></em> à três meses. O Aluno desenvolveu diversos sintomas <em>(listados no fim desta matéria)</em>.</p>
+    <p>O Aluno foi internado na Santa Casa do Santo Jenuário, e foi medicado com alguns remédios <em>(listados no fim desta matéria)</em>. A equipe de reportagem, deixa aqui suas condolências </p>
+    <ul>Sintomas</ul>
+    <li><abbr title="Começou a abrir site em vários canais de Hospedagem">Cansaço</abbr></li>
+    <li><abbr title="Não tava entendendo nada de certas aulas">Irritação leve</abbr></li>
+    <li><abbr title="Estava carregando esse kit até para ir tomar banho">Dor nas Costas</abbr></li>
+    
+    <ol>Farmácos</ol>
+    <li>Benzatol</li>
+    <li>Litenzatil</li>
+    <li>Perectonil</li>
+    </body>
+</html>
